@@ -1,5 +1,5 @@
 {
-  "name": "@nekena/sc-angular-notifier",
+  "name": "types/sc-angular-notifier",
   "sideEffects": [
     "*.scss",
     "*.css"
