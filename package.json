@@ -1,5 +1,5 @@
 {
-  "name": "angular-notifier",
+  "name": "@types/sc-angular-notifier",
   "sideEffects": [
     "*.scss",
     "*.css"
@@ -21,11 +21,11 @@
     "tslib": "2.4.x"
   },
   "description": "A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application.",
-  "version": "14.0.3",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dominique-mueller/angular-notifier"
+    "url": "https://github.com/Nekena12345/sc-angular-notifier-ts.git"
   },
   "keywords": [
     "angular",
