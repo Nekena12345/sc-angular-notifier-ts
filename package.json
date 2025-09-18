@@ -1,5 +1,5 @@
 {
-  "name": "types/sc-angular-notifier",
+  "name": "sc-angular-notifier-ts",
   "sideEffects": [
     "*.scss",
     "*.css"
