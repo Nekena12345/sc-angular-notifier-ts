@@ -1,9 +1,12 @@
 {
-  "name": "@types/sc-angular-notifier",
+  "name": "@nekena/sc-angular-notifier",
   "sideEffects": [
     "*.scss",
     "*.css"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "module": "fesm2022/angular-notifier.mjs",
   "typings": "index.d.ts",
   "exports": {
