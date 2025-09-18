@@ -1,0 +1,47 @@
+{
+  "name": "angular-notifier",
+  "sideEffects": [
+    "*.scss",
+    "*.css"
+  ],
+  "module": "fesm2022/angular-notifier.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2022": "./esm2022/angular-notifier.mjs",
+      "esm": "./esm2022/angular-notifier.mjs",
+      "default": "./fesm2022/angular-notifier.mjs"
+    }
+  },
+  "dependencies": {
+    "tslib": "2.4.x"
+  },
+  "description": "A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular application.",
+  "version": "14.0.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dominique-mueller/angular-notifier"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "ng",
+    "ng2",
+    "notifier",
+    "notification",
+    "notifications",
+    "toast",
+    "toasts",
+    "alert",
+    "library"
+  ],
+  "peerDependencies": {
+    "@angular/common": ">= 16.0.0 < 17.0.0",
+    "@angular/core": ">= 16.0.0 < 17.0.0"
+  }
+}
